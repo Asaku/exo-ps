@@ -51,4 +51,3 @@ function world
     hello($w)
 }
 
-world
